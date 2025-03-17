@@ -1,1 +1,3 @@
-![423046973-9338ec92-dfe6-40ee-a116-ce0d32404505](https://github.com/user-attachments/assets/54730613-b34c-495b-9bcc-8cf1997795ea)
+![Captura de Pantalla 2025-03-16 a la(s) 23 34 29](https://github.com/user-attachments/assets/f7e6787a-218f-4557-84b2-1bcf1799840d)
+se creo una lista vacía llamada "amigos". Esta lista se utilizará para almacenar los nombres de las personas que participarán en el sorteo del amigo secreto.
+
