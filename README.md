@@ -9,3 +9,7 @@ Esta parte del codigo obtiene el nombre del amigo que el usuario ha escrito en u
 ![Captura de Pantalla 2025-03-16 a la(s) 23 46 03](https://github.com/user-attachments/assets/d5ca67b7-9f6c-4602-9845-fb6e2c44c4c2)
 
 Esto obtiene el elemento de la página web donde se mostrará la lista de amigos, ademas que permite borrar todo el contenido anterior de esa lista, recorre la lista "amigos", para cada nombre, crea un nuevo elemento de lista (un "li"). esto permite poner el nombre del amigo dentro del elemento de lista y Añade el elemento de lista a la lista que se muestra en la página.
+
+![Captura de Pantalla 2025-03-16 a la(s) 23 50 03](https://github.com/user-attachments/assets/497f69ec-722b-4db0-8fe5-628f855935e8)
+
+Por ultimo la parte de este codigo verifica si la lista "amigos" está vacía, si lo está, muestra una alerta diciendo que no hay amigos para sortear. Si la lista no está vacía, genera un número aleatorio que se utiliza para seleccionar un amigo al azar de la lista. Obtiene el nombre del amigo seleccionado y muestra el nombre del amigo secreto y limpia la lista para poder iniciar de nuevo el juego.
